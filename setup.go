@@ -7,7 +7,7 @@ import (
 	"github.com/coredns/coredns/core/dnsserver"
 	"github.com/coredns/coredns/plugin"
 	"github.com/ethereum/go-ethereum/ethclient"
-	ens "github.com/wealdtech/go-ens/v3"
+	ens "github.com/mainnet-pat/go-ens/v3"
 )
 
 func init() {

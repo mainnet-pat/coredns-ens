@@ -9,5 +9,5 @@ require (
 	github.com/hashicorp/golang-lru v0.5.3
 	github.com/labstack/gommon v0.2.9
 	github.com/miekg/dns v1.1.15
-	github.com/wealdtech/go-ens/v3 v3.5.0
+	github.com/mainnet-pat/go-ens/v3 v3.5.101
 )
